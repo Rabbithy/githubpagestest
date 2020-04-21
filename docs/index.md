@@ -1,6 +1,6 @@
-<div id="header_wrap" class="outer">
+<header>
   <a href="#" download>Download zip</a>
-</div>
+</header>
 
 # GITHUB PAGE TEST
 # GITHUB
